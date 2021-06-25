@@ -1,0 +1,80 @@
+  body {
+    padding: 25px;
+    color: black;
+    font-size: 25px;
+    background-color: rgb(33, 58, 95);
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: rgb(146, 134, 134);
+  }
+      
+  footer {
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+  }
+  
+  .dark-mode {
+    background-image: url('../pictures/BGimage.jpg');
+    color: white;
+    font-family: fantasy;
+  }
+ 
+ .p{
+   font-family: fantasy;
+  }
+  .center{
+    text-align: center;
+  }
+
+  img{
+    padding:10px;
+  }
+
+  nav{
+    border-radius: 20px;
+  }
+
+
+  .foto{
+    margin-left: 40vw;
+    }
+
+  .a {
+      color: greenyellow !important;
+    }
+    .reken-center
+    {
+      text-align: center;
+
+    }
+    /* kennis page*/
+    .htmlimg {
+      width: 90px;
+    }
+    .cssimg
+    {
+      width: 90px;
+    }
+    .cimg
+    {
+      width: 90px;
+    }
+    .javascriptimg
+    {
+      width: 90px;
+    }
+   
+     /* nav.header-theme{
+     background: rgba(59, 53, 53, 0.5); 
+    }    
+
+    
+  .rounded-corner{
+    border-radius: 50%;
+  }
